@@ -1,1 +1,1 @@
-# blockchain_go
+# golang-blockchain
